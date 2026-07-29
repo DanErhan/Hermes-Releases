@@ -54,11 +54,13 @@ First start takes a minute while it prepares its data files. That is normal.
 
 ## Starting your 30 days
 
-Enter your email on the first screen. That's it — you get 30 days, nothing is
-charged, and no card is asked for.
+Enter your email on the first screen. You may be emailed a 6-digit code to
+confirm the address — type it in, and you're in. That's it: 30 days, nothing
+charged, no card asked for.
 
 Your licence is tied to that computer, and you can run it on two (a desktop and
-a laptop, say). One trial per machine.
+a laptop, say). One trial per machine, and the 30 days count from the moment
+you sign up.
 
 ---
 
