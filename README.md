@@ -18,12 +18,12 @@ you do.
 | Your computer | File |
 |---|---|
 | Mac with Apple Silicon (M1–M4) | `Hermes-<version>-mac-arm64.dmg` |
-| Mac with Intel | `Hermes-<version>-mac-x64.dmg` |
 | Windows 10 / 11, 64-bit | `Hermes-<version>-win-x64.exe` |
 
-Not sure which Mac you have?  → Apple menu → About This Mac. If it says *Apple
-M1/M2/M3/M4*, take the **arm64** file. If it says *Intel*, take the **x64** one.
-The wrong file will not open at all, so it is worth the ten seconds.
+**Intel Macs are not supported yet.** Check first: Apple menu → About This Mac.
+If it says *Apple M1/M2/M3/M4* you're fine. If it says *Intel*, this build will
+not open at all — an Intel version is coming, and it's worth the ten seconds to
+check rather than wonder why nothing happens.
 
 ---
 
@@ -114,6 +114,8 @@ were doing. Bug reports from the beta are the entire point of the beta.
 ## Known limits, honestly
 
 - **Not code-signed yet**, hence the warnings above.
+- **Apple Silicon only on macOS.** An Intel build needs a build machine we don't
+  currently have; the file here will not open on an Intel Mac.
 - **cTrader is the path that has been tested properly.** MT4, MT5 and OANDA are
   in this build and are newer — if you use one, expect rough edges and please
   report them.
