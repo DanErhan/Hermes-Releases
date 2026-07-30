@@ -52,14 +52,14 @@ First start takes a minute while it prepares its data files. That is normal.
 
 ---
 
-## Starting your 30 days
+## Starting your 11 days
 
 Enter your email on the first screen. You may be emailed a 6-digit code to
-confirm the address — type it in, and you're in. That's it: 30 days, nothing
+confirm the address — type it in, and you're in. That's it: 11 days, nothing
 charged, no card asked for.
 
 Your licence is tied to that computer, and you can run it on two (a desktop and
-a laptop, say). One trial per machine, and the 30 days count from the moment
+a laptop, say). One trial per machine, and the 11 days count from the moment
 you sign up.
 
 ---
@@ -121,7 +121,7 @@ were doing. Bug reports from the beta are the entire point of the beta.
 - **cTrader is the path that has been tested properly.** MT4, MT5 and OANDA are
   in this build and are newer — if you use one, expect rough edges and please
   report them.
-- The beta is 30 days. Extensions are a message away.
+- The beta is 11 days. Extensions are a message away.
 - This repository holds **releases only** — no source. Hermes is not open source.
 
 ---
