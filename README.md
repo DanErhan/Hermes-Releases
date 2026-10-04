@@ -46,8 +46,8 @@ Do these **in this order**:
 
 1. Open the `.dmg` and drag **Hermes** onto the Applications folder. If asked,
    choose **Replace**.
-2. **Eject the `.dmg`** (the ⏏ next to "Hermes" in Finder's sidebar). Never open
-   Hermes from that window — the copy in there can't be unblocked.
+2. **Close the download window.** Never open Hermes from that window — the copy
+   in there can't be unblocked.
 3. Open **Terminal** (⌘ Space, type `Terminal`, Return), paste this, press Return:
 
    ```
